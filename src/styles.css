@@ -88,3 +88,4 @@ nav{display:flex;gap:30px;align-items:center;font-family:var(--font);font-size:1
 .hi .num{position:absolute;top:22px;left:26px;font-family:var(--font);color:var(--accent);font-size:14px;letter-spacing:2px}
 .hi h3{font-family:var(--font);font-weight:700;font-size:clamp(24px,3vw,40px)}
 .hi p{font-size:14px;color:var(--muted);padding:0 26px;margin-top:10px}
+.wm{margin-right:-.25em}
